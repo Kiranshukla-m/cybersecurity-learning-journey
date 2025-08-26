@@ -1,73 +1,45 @@
-# cybersecurity-learning-journey
-A personal log of my TryHackMe rooms, notes, and cybersecurity learning journey.
-Welcome! 👋  
-This is my personal log of all the **TryHackMe rooms**, notes, and milestones from my cybersecurity learning journey.  
+# 🚀 Cybersecurity Learning Journey  
+
+A personal log of my **TryHackMe rooms, notes, and cybersecurity learning journey**. Welcome! 👋  
+
+This repository is where I document each module I complete, along with reflections, commands I practiced, and lessons I learned.  
 
 ---
 
-## 🌟 Why I Created This Repo
-I wanted a place to:
-- ✍️ Write down what I learn in each room.
-- 📌 Track my progress over time.
-- 🤝 Share my notes with others who are also learning.
+## 📂 Progress So Far  
 
-## 🧭 My Notes & Reflection on Banner Room Tasks
+1. [🐧 Linux Fundamentals](./LinuxFundamentals.md)  
+   - Learned to navigate the Linux OS, work with files, directories, SSH, permissions, and processes.  
+   - Refreshed my memory from my **Wireless Information Networking diploma**.  
 
-I’ve been working through the **Banner – Cyber Security 101** room on TryHackMe, and here’s how I went through each task.  
-I explored all the links mentioned and tried to do as much research as I could. It turned out to be a very interesting and knowledgeable experience — I really got to see how these concepts connect in the real world. ✨
+2. [🪟 Windows & Active Directory Fundamentals](./WindowsFundamentals.md)  
+   - Explored NTFS, UAC, Control Panel, Registry, BitLocker, and AD basics.  
+   - Understood how **restrictions, permissions, and access control** are applied in organizations.  
 
----
-
-### ✅ Task 1: Introduction
-Got an overview of why search skills are so important in cybersecurity.  
-It set the tone for the rest of the room and made me excited to dive in.
+3. [💻 Windows Command Line](./WindowsCommandLine.md)  
+   - Gained confidence with essential commands: `ping`, `ipconfig`, `netstat`, `tasklist`, `taskkill`, `dir`, etc.  
+   - Realized that **every click in the GUI is just a command in the background**.  
 
 ---
 
-### ✅ Task 2: Evaluation of Search Results
-Learned to look beyond the first search result.  
-Now I pay more attention to the source, date, and reliability of information.
+## ✅ Progress Tracker  
+
+- ✅ Linux Fundamentals  
+- ✅ Windows & AD Fundamentals  
+- ✅ Windows Command Line  
+- ⬜ Windows PowerShell *(premium module, will explore via free resources)*  
+- ⬜ Linux Shells *(premium module, will explore via free resources)*  
 
 ---
 
-### ✅ Task 3: Search Engines
-Explored different search engines and realized how much better results can get when you know how to use operators and filters.
+## 📝 My Task Notes  
+
+I’ve also kept a shorter version of the notes I wrote while doing each task.  
+You can find them here: [TasksAndNotes.md](./TasksAndNotes.md)  
 
 ---
 
-### ✅ Task 4: Specialized Search Engines
-This part was eye‑opening!  
-I discovered tools like **Shodan** and other niche search engines that security professionals actually use.  
-It showed me how much power these tools have when you need very specific data.
-
----
-
-### ✅ Task 5: Vulnerabilities and Exploits
-Dove into CVEs (Common Vulnerabilities and Exposures) and learned how they’re documented.  
-It’s amazing how every known vulnerability is tracked with an ID, making research and communication much easier.
-
----
-
-### ✅ Task 6: Technical Documentation
-I used to get intimidated by docs, but this task helped me see them as guides instead of walls of text.  
-It’s all about knowing how to skim and pick out what you need.
-
----
-
-### ✅ Task 7: Social Media
-I never thought social media would be useful for research, but it really is!  
-Following the right people or communities can lead to quick updates on new threats or tools.
-
----
-
-### ✅ Task 8: Conclusion
-All these tasks tied together beautifully.  
-After going through the resources and links, I feel like I’ve built a solid foundation on how to search, research, and think like someone in cybersecurity.
-
----
-
-**💡 Final thoughts:**  
-> This room was more than just a lesson — it was a mindset shift.  
-> I now understand how things can run behind the scenes and how powerful proper research can be.
-
-I’m excited to keep building on this knowledge and document more as I go! 🚀
+## 🔮 Next Steps  
+- Explore **PowerShell** and scripting (through free resources, since premium modules aren’t unlocked).  
+- Continue with more TryHackMe modules and add reflections here.  
+- Build a portfolio of hands-on cybersecurity skills along the way.  
